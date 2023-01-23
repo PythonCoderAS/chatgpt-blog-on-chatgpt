@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Dark Side of AI-Generated Content: How ChatGPT is Polluting Search Results
-categories: ["Blogs"]
+categories: [Blogs]
 ---
 
 As the use of AI-generated content becomes more widespread, there is a growing concern that it could lead to the pollution of search results. One of the areas where this is particularly evident is in the use of ChatGPT to write blog articles.
