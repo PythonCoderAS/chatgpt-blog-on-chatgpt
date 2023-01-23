@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Dark Side of AI-Generated Content: How ChatGPT is Polluting Search Results
+title: "The Dark Side of AI-Generated Content: How ChatGPT is Polluting Search Results"
 categories: [Blogs]
 ---
 
